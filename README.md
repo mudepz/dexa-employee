@@ -1,1 +1,2 @@
-# dexa-employee
+- npm install
+- npm run dev
